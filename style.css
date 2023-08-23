@@ -1,0 +1,41 @@
+* {
+    font-family: 'Gill Sans', sans-serif;
+    
+}
+
+/*#light {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: grey;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    
+}*/
+
+#lightSwitch {
+border: none;
+}
+
+#lightBulb {
+    height:320px; 
+    width: 200px; 
+    align-self: center;
+    
+}
+
+#changeLightSwitch {
+    height: 150px; 
+    width: 100px; 
+    
+}
+
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
